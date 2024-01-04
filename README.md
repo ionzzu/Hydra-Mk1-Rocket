@@ -130,7 +130,7 @@ Other structure components are slightly adjusted dimensions from those used in H
 ### Recovery
 
 - Bulkhead designed including areas for CO2 canisters and a black powder backup
-- Dual parachutes deploy to slow rocket descent
+- Drogue and main parachutes deploy to slow rocket descent
 
 ### Manufacturing
 
